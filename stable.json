@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Unsigned build. First release under the Prinotes name. Adds automatic updates.",
-  "pub_date": "2026-11-25T23:21:28Z",
+  "version": "0.2.4",
+  "notes": "Unsigned build. Fixes downloading updates.",
+  "pub_date": "2026-11-26T15:00:27Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Prinotes-App/releases/releases/download/v0.2.0/Prinotes_0.2.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRemhjeElmV3VRc2JTZlN6RUJNU28xT2JieFdoQ2RiOTY3Q1RISDVid2xwVmEvc0xYNTU4emF0Unp2WXNsOUNaay9mYXo5RHQrNGpjQWg4OGpRVjlIcGI2Y2tXU1NPMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQ4ODUwCWZpbGU6UHJpbm90ZXNfMC4yLjBfeDY0LXNldHVwLmV4ZQpmcy9sdmQweUFhQkdmb0ZuSWlrRFg2dHpOZG9KYXZTbmFLRHViZTB6dmQyemJ4RXkzSEVUYTJHaVpuWWoyUEZwbUZBcFJpRzVJQnp1cWRHZnpYTzBCZz09Cg=="
+      "url": "https://github.com/Prinotes-App/releases/releases/download/v0.2.4/Prinotes_0.2.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRemhjeElmV3VRc1FBV1RhS1ZmOCtVdTVIYnJsSnhRZE5ldmYyazdwdHpFNngrSGs3eks2WkttMXlNbE5iY1BnQmkrZTJBcEN0S0U3dUxqbURCWFcrK1I3UlA2QUxJakFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1MTgwCWZpbGU6UHJpbm90ZXNfMC4yLjRfeDY0LXNldHVwLmV4ZQpOcFNKVHRxeGl4K0VaQ1NiWWlSUWR5UThtejlwY0ZIamo3cGJLWkZ3RDhwZ1F2Z3drV1pVRGpvUE9rM3JJaTNmOFhxdGFRUVlsRFcxSzUzcUNveXhEUT09Cg=="
     }
   }
 }
